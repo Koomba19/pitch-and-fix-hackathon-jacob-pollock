@@ -15,7 +15,12 @@
 Apparently I that's all I did was the Immediate Steps.  
 
 ## Friday 4/25  
-I saved the thing to commit it. Which I forgot to do before.
+I saved the thing to commit it. Which I forgot to do before.  
+- styles.css L 78 changed nav-item and nav-items to class form ID in order to fix the index.html L 15
+- Added /div to index.html L168 to resolve that sections validation errors of missing a closing tag on the top div.
+- index.html L177 input tag had mismatched double to single qoutes. Changed to all double qoutes.
+- index.html L217 first list item had an anchor tag that was left open, facebook should now have a proper anchor tag after closing it.  
+It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 
 ### Misc
 
