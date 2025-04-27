@@ -36,6 +36,14 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
   4. Got scared. Spent the last 20 minutes learning about CDNs and basic security on the web when linking through them.  
   5. Fixed the link in cart.html and product-detail.html.  
 - Fixed the logo icon in product-detail.html and cart.html with correct relative pathing, *and* to correct image file. index.html works since it's in the root and points to the right file.  
+- Fixed without understanding. product-details L 167 added data-tab attribute for reviews. That might make sense once I go through js files,
+- product-detail.html L 178 says there should be a bug with having no /table tag. But there is one? So I'll mark it fixed in the comment, hopefully it is.
+- product-detail.html L 284 added /div tag.
+- product-detail.html L 395 added /a tag. I'm confused though as to the empty `<i>` tags. If I'm putting classes on it anyways, can't I just use text-decoration?
+- Looking at main.js there is a lot of **comment bloat** happening here. 130 lines of code and 24 of them are comments that are copies of the following line. like L 10 and 11  
+  1. **Line 10** // Setup event listeners  
+  2. **Line 11** setupEventListeners();  
+  That's unnecessary and I'll be removing comments like that as I move through.  
 - 
 
 ### Misc
