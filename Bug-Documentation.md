@@ -44,7 +44,10 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
   1. **Line 10** // Setup event listeners  
   2. **Line 11** setupEventListeners();  
   That's unnecessary and I'll be removing comments like that as I move through.  
-- 
+
+## Thursday 5/1  
+How in the heck did this happen! Need to get back to work  
+- After a lot of misunderstanding. I added a favicon to cart, product-detail, and index.html.
 
 ### Misc
 
