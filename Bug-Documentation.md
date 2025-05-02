@@ -47,7 +47,9 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 
 ## Thursday 5/1  
 How in the heck did this happen! Need to get back to work  
-- After a lot of misunderstanding. I added a favicon to cart, product-detail, and index.html.
+- After a lot of misunderstanding. I added a favicon to cart, product-detail, and index.html.  
+- For some reason the subscribe thing works fine on index.html. Must investigate further to see if there's anything janky in the code.  
+- Added Todo List.md, realized that I put a space in it like a jerk, fixed it to say todo-list.md
 
 ### Misc
 
