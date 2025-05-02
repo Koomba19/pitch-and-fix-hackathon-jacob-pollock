@@ -55,6 +55,9 @@ How in the heck did this happen! Need to get back to work
 - Added src to Product 4 on index.html  
 - Got headphone image for product 1  
 - Relative pathing wasn't right for all those extra pages I just made so that needed fixing.  
+- Linked the needed stylesheets too  
+- moved scripts up to head with defer tag, just a personal choice.  
+- copied scripts to heads of other html files. Not sure if needed straight away but won't hurt yet.  
 
 
 
