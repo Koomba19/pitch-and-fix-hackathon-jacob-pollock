@@ -51,7 +51,10 @@ How in the heck did this happen! Need to get back to work
 - For some reason the subscribe thing works fine on index.html. Must investigate further to see if there's anything janky in the code.  
 - Added Todo List.md, realized that I put a space in it like a jerk, fixed it to say todo-list.md
 - Made the 4 pages that are listed in the nav bar inside the heading.  
-- Discovered that the subscribe bar on homepage works, mostly. And is called the newsletter, which is cute.
+- Discovered that the subscribe bar on homepage works, mostly. And is called the newsletter, which is cute.  
+- Added src to Product 4 on index.html  
+- Got headphone image for product 1  
+
 
 ### Misc
 
