@@ -58,7 +58,7 @@ How in the heck did this happen! Need to get back to work
 - Linked the needed stylesheets too  
 - moved scripts up to head with defer tag, just a personal choice.  
 - copied scripts to heads of other html files. Not sure if needed straight away but won't hurt yet.  
-
+- relative pathing on scripts broke. When will I learn.
 
 
 ### Misc
