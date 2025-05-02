@@ -54,11 +54,14 @@ How in the heck did this happen! Need to get back to work
 - Discovered that the subscribe bar on homepage works, mostly. And is called the newsletter, which is cute.  
 - Added src to Product 4 on index.html  
 - Got headphone image for product 1  
+- Relative pathing wasn't right for all those extra pages I just made so that needed fixing.  
+
 
 
 ### Misc
 
-- Took a peek at the text editor for that .svg, that's neat how tidy it was made and I'm curious as to what program you used Eric.
+- Took a peek at the text editor for that .svg, that's neat how tidy it was made and I'm curious as to what program you used Eric.  
+- Big shoutout to Pexels for royalty free images.
 
 ## Extensions Installed
 
