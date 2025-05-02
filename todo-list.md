@@ -5,4 +5,4 @@
 - [ ] The footer is full of pages that don't exist, make them exist  
 - [ ] The cart button goes to a checkout button pop that doesn't work, make it work  
 - [ ] There is no way to get to cart or checkout from home, fix that somehow  
-- [ ] 
+- [ ] Clean up javascript files, those comments bug me
