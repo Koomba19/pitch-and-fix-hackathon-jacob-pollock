@@ -46,7 +46,7 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
   That's unnecessary and I'll be removing comments like that as I move through.  
 
 ## Thursday 5/1  
-How in the heck did this happen! Need to get back to work  
+### How in the heck did multiple days go by without progress! Need to get back to work.  
 - After a lot of misunderstanding. I added a favicon to cart, product-detail, and index.html.  
 - For some reason the subscribe thing works fine on index.html. Must investigate further to see if there's anything janky in the code.  
 - Added Todo List.md, realized that I put a space in it like a jerk, fixed it to say todo-list.md
@@ -60,6 +60,9 @@ How in the heck did this happen! Need to get back to work
 - copied scripts to heads of other html files. Not sure if needed straight away but won't hurt yet.  
 - relative pathing on scripts broke. When will I learn.
 
+## Monday 5/5  
+### Last minute things. Trying to finish the todo list.  
+- Added the blog, careers, details, faq, new-arrivals, partners, shipping, and terms pages with header and footers.  
 
 ### Misc
 
