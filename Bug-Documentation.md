@@ -63,6 +63,7 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 ## Monday 5/5  
 ### Last minute things. Trying to finish the todo list.  
 - Added the blog, careers, details, faq, new-arrivals, partners, shipping, and terms pages with header and footers.  
+- Index.html L 103, added data-product-price 199.99 in order to fix the cart thing saying NaN.
 
 ### Misc
 

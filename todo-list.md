@@ -8,6 +8,6 @@
 - [ ] Clean up javascript files, those comments bug me
 
 ## New issues  
-- [ ] It appears the cart logic doesn't recognize smart watch. Check on that.  
+- [x] It appears the cart logic doesn't recognize smart watch. Check on that.  
 - [ ] When you X out of on of the items in cart, while on index.html, it doesn't show any more additions. Might have to rebuild the logic a bit.  
 - [ ] The x looks dump on the cart, it likely is supposed to have a font awesome styling on it.
