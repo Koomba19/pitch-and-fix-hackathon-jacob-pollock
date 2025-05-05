@@ -9,5 +9,7 @@
 
 ## New issues  
 - [x] It appears the cart logic doesn't recognize smart watch. Check on that.  
-- [ ] When you X out of on of the items in cart, while on index.html, it doesn't show any more additions. Might have to rebuild the logic a bit.  
-- [ ] The x looks dump on the cart, it likely is supposed to have a font awesome styling on it.
+- [ ] When you X out of on of the items in cart, while on index.html, it doesn't show any more additions. Might have to rebuild the logic a bit. Further notes are;  
+    - Needs refresh to live update.  
+    - Removing items breaks all kinds of logic.  
+    - Needs styling and number formatting. Dollar signs at least.
