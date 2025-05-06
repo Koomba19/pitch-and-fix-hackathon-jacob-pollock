@@ -68,6 +68,7 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 - Just noticed that in the category section, all the anchors point to ids inside the categories page. And that th home and kitchen category goes to #home. That's a terrible naming, so I'll be changing that to #home-and-kitchen.  
 - Also inside the alt text I made it more specific to explain that these were links to the categories page, and not something more ambiguous.  
 - Finished adding images to index.html
+- Swapped the first headphones image from infile to a URL. It took nearly 30 seconds for github.com to render the image, which is a super bad time.
 
 
 ### Misc

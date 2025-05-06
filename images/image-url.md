@@ -7,6 +7,10 @@
     - [Where the image is located](#how-to-use-this-guide)  
 
 ## Images  
+- **Product 1 Card, the Wireless Headphones**  
+    - *index.html*  
+    - [https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg](https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg)  
+
 - **Product 2 Card, the Smart Watch**  
     - *index.html*
     - [https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg](https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg)  
