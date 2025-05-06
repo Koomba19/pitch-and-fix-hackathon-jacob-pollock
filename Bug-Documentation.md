@@ -70,6 +70,13 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 - Finished adding images to index.html
 - Swapped the first headphones image from infile to a URL. It took nearly 30 seconds for github.com to render the image, which is a super bad time.  
 - Added deals.html since I just realized I missed that from the footer.
+- cart.html L 24, changed navbar ul id -> class nav-items.  
+- Fixed the header and footer in cart.html  
+- Moved the script tag into the head tag on cart.html
+- Added cart.js to cart.html, defered, in the head tag  
+  - I had hoped that would fix things. It did not.  
+- Finally wrapped the cart button in an anchor tag to link it to cart.html. now to do that two dozen more times.
+- All pages updated so that cart checkout links to cart.html
 
 
 ### Misc

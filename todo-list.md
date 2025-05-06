@@ -3,7 +3,7 @@
 - [x] Console says there isn't a request for product 4, add an image call for that  
 - [x] Build static pages for the navigation to actually go to  
 - [x] The footer is full of pages that don't exist, make them exist  
-- [ ] The cart button goes to a checkout button pop that doesn't work, make it work  
+- [x] The cart button goes to a checkout button pop that doesn't work, make it work  
 - [ ] There is no way to get to cart or checkout from home, fix that somehow  
 - [ ] Clean up javascript files, those comments bug me
 
@@ -18,3 +18,7 @@
     - [ ] #clothing
     - [ ] #home-and-kitchen
     - [ ] #sports
+- cart.html has so many errors
+    - [ ] Missing images across the page
+    - [ ] Laptop Bag add to cart button
+    - [x] Header styling
