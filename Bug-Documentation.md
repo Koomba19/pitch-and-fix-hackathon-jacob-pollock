@@ -64,6 +64,11 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 ### Last minute things. Trying to finish the todo list.  
 - Added the blog, careers, details, faq, new-arrivals, partners, shipping, and terms pages with header and footers.  
 - Index.html L 103, added data-product-price 199.99 in order to fix the cart thing saying NaN.
+- Made the image-url tracker markdown. Going through Pexel now to fill in images to the homepage.  
+- Just noticed that in the category section, all the anchors point to ids inside the categories page. And that th home and kitchen category goes to #home. That's a terrible naming, so I'll be changing that to #home-and-kitchen.  
+- Also inside the alt text I made it more specific to explain that these were links to the categories page, and not something more ambiguous.  
+- Finished adding images to index.html
+
 
 ### Misc
 
