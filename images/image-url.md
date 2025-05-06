@@ -8,19 +8,19 @@
 
 ## Images  
 - **Product 1 Card, the Wireless Headphones**  
-    - *index.html*  
+    - *index.html, cart.html*  
     - [https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg](https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg)  
 
 - **Product 2 Card, the Smart Watch**  
-    - *index.html*
+    - *index.html, cart.html*
     - [https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg](https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg)  
 
 - **Product 3 Card, the Bluetooth Speaker**
-    - *index.html*  
-    - [https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+    - *index.html, cart.html*  
+    - [https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg](https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg)
  
  - **Product 4 Card, the Laptop Bag**  
-    - *index.html*  
+    - *index.html, cart.html*  
     - [https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg](https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg)
 
 - **Category Card, Electronics**  

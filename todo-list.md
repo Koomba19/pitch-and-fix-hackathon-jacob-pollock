@@ -4,7 +4,7 @@
 - [x] Build static pages for the navigation to actually go to  
 - [x] The footer is full of pages that don't exist, make them exist  
 - [x] The cart button goes to a checkout button pop that doesn't work, make it work  
-- [ ] There is no way to get to cart or checkout from home, fix that somehow  
+- [x] There is no way to get to cart or checkout from home, fix that somehow  
 - [ ] Clean up javascript files, those comments bug me
 
 ## New issues  
@@ -19,6 +19,6 @@
     - [ ] #home-and-kitchen
     - [ ] #sports
 - cart.html has so many errors
-    - [ ] Missing images across the page
-    - [ ] Laptop Bag add to cart button
+    - [x] Missing images across the page
+    - [x] Laptop Bag add to cart button
     - [x] Header styling

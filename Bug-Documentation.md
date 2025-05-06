@@ -76,7 +76,11 @@ It's off to work for me unfortunately. Hopefully I keep at this after my shift.
 - Added cart.js to cart.html, defered, in the head tag  
   - I had hoped that would fix things. It did not.  
 - Finally wrapped the cart button in an anchor tag to link it to cart.html. now to do that two dozen more times.
-- All pages updated so that cart checkout links to cart.html
+- All pages updated so that cart checkout links to cart.html  
+- Added 'add-to-cart-btn' to product slide 4 in cart.html, L 173
+- Minor change to image for bluetooth speaker, now linked to original image, was the auto-compressed resize version
+- Finished fixing the images on cart.html. At least it looks fine, even if it doesn't work.
+
 
 
 ### Misc
